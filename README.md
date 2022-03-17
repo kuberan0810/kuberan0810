@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kubera Murthi
-- 👀 I’m interested in Programming & driver development
-- 🌱 I’m currently learning Operating systems & device specific driver development
-- 💞️ I’m looking to collaborate on application & device specific drivers development
+- 👀 I’m interested in Embedded Systems Programming
+- 🌱 I’m currently learning Operating systems & taking NAND to Tetris Course
+- 💞️ I’m looking to collaborate on application & device specific firmware & drivers development
 - 📫 You can reach me at kuberan0810@gmail.com / +91 8675693596
 
 <!---
